@@ -4,7 +4,7 @@ public class Ship {
     private String name;
     private String color;
     private String logo;
-//commit 2222222
+//commit 333333333
 //    public Ship(String name, String color, String logo) {
 //        this.name = name;
 //        this.color = color;
