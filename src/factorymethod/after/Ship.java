@@ -5,7 +5,6 @@ public class Ship {
     private String color;
     private String logo;
 
-    //test code commit!!!!!!
 //    public Ship(String name, String color, String logo) {
 //        this.name = name;
 //        this.color = color;
